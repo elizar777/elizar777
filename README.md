@@ -22,19 +22,14 @@
 ---
 
 
-### 📊 GitHub статистика:
+### 📊 GitHub статистика и моя активность:
 
 <p align="center">=
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizar777&layout=compact&theme=dark" height="165">
-</p>
-
----
-
-### 📅 Моя активность:
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizar777&theme=github_dark">
 </p>
 
+---
 
 
 ### 🔥 Анимированная строка настроения:
