@@ -21,10 +21,7 @@
 
 ---
 ### 🌍 Бишкек сейчас:
-<p align="center">
-  <img src="[https://wttr.in/Bishkek?format=%C+%t](https://wttr.in/Bishkek?format=%C+%t)">
-</p>
----
+[Посмотреть текущую погоду](https://wttr.in/Bishkek?format=%C+%t)
 
 
 ### 📊 GitHub статистика:
