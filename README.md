@@ -1,6 +1,6 @@
 <h1>Привет! Я Элизар 👋</h1>
 
-<p align="center">
+<p>
   💻 <b>Backend-разработчик</b> | Python | Django | Django REST <br>
   🚀 Развиваюсь в сфере айти и новых технологий
 </p>
@@ -9,7 +9,7 @@
 
 ### 🛠️ Стек технологий:
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Django-4.0-green?style=for-the-badge&logo=django" alt="Django">
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST">
