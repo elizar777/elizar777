@@ -20,15 +20,7 @@
 </p>
 
 ---
-### 🐍 Анимация коммитов:
-<p align="center">
-  <img src="https://github.com/Elizar44/Elizar44/blob/output/github-contribution-grid-snake.svg">
-</p>
----
 
-
-
----
 
 
 ### 📊 GitHub статистика:
