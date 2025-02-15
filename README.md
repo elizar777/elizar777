@@ -22,7 +22,7 @@
 ---
 ### 🌍 Бишкек сейчас:
 <p align="center">
-  <img src="https://wttr.in/Bishkek?format=%C+%t">
+  <img src="[https://wttr.in/Bishkek?format=%C+%t](https://wttr.in/Bishkek?format=%C+%t)">
 </p>
 ---
 
