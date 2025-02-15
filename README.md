@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Элизар 👋</h1>
+<h1>Привет! Я Элизар 👋</h1>
 
 <p align="center">
   💻 <b>Backend-разработчик</b> | Python | Django | Django REST <br>
