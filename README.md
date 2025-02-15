@@ -29,11 +29,6 @@
 </p>
 
 ---
-### 🔝 Топ языков:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizar44&layout=compact&theme=dark" height="165">
-</p>
-
 
 ### 🔥 Анимированная строка настроения:
 <p align="center">
