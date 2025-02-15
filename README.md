@@ -20,12 +20,16 @@
 </p>
 
 ---
-### 🏆 GitHub Трофеи:
+### 🐍 Анимация коммитов:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elizar44&theme=onedark&no-frame=true&row=1&column=7">
+  <img src="https://github.com/Elizar44/Elizar44/blob/output/github-contribution-grid-snake.svg">
 </p>
+---
+
+
 
 ---
+
 
 ### 📊 GitHub статистика:
 
@@ -50,6 +54,13 @@
   <a href="mailto:ahmadbekovelizar390@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</p>
+
+---
+
+### 📱 QR-код для быстрого контакта:
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://t.me/Elizar44" alt="QR Code">
 </p>
 
 
