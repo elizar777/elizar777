@@ -27,10 +27,16 @@
 ### 📊 GitHub статистика:
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elizar44&show_icons=true&theme=dark" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizar777&layout=compact&theme=dark" height="165">
 </p>
 
 ---
+### 🔝 Топ языков:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizar44&layout=compact&theme=dark" height="165">
+</p>
+
 
 ### 🔥 Анимированная строка настроения:
 <p align="center">
