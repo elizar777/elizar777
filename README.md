@@ -20,7 +20,11 @@
 </p>
 
 ---
-
+### 🌍 Бишкек сейчас:
+<p align="center">
+  <img src="https://wttr.in/Bishkek?format=%C+%t">
+</p>
+---
 
 
 ### 📊 GitHub статистика:
