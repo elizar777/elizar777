@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Связаться со мной:
-<p align="center">
+<p>
   <a href="https://t.me/Elizar44">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
