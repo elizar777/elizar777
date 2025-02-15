@@ -58,9 +58,5 @@
 
 ---
 
-### 📱 QR-код для быстрого контакта:
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://t.me/Elizar44" alt="QR Code">
-</p>
 
 
