@@ -32,7 +32,7 @@
 ---
 
 
-### 🔥 Анимированная строка настроения:
+###
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Программирую+на+Python!;Работаю+с+Django+и+REST+API;Создаю+ботов+на+Aiogram;Изучаю+и+развиваюсь+каждый+день" alt="Typing SVG">
 </p>
